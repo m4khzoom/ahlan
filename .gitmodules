@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/m4khzoom/m4khzoom.github.io.git
+	branch = master
